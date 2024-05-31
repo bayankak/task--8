@@ -36,7 +36,7 @@
     height: 100vh;
     width: 100%;
     padding: 40px;
-    background-image: url(./img/footer-img.png);
+    background-image: url(.././img/footer-img.png);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -297,7 +297,8 @@ footer {
         align-items: center;
     }
     .p {
-        font-size: 15px;
+        font-size: 10px;
+        color:black;
     }
 }
 
